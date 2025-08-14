@@ -1,0 +1,161 @@
+/* mobile root */
+
+:root {
+    --mobile-padding: clamp(5rem, 6.5vw, 6rem) clamp(2rem, 4vw, 3rem) 0;
+}
+
+/* mobile root END */
+
+
+@media (max-width: 768px) {
+
+    /* nav styles */
+
+    .menu_btn {
+        display: none;
+    }
+
+    nav {
+        padding: clamp(1.5rem, -2.816rem + 9.184vw, 6rem) clamp(2rem, 4vw, 3rem);
+        height: clamp(8rem, 2.245rem + 12.245vw, 14rem);
+    }
+
+    a {
+        font-size: clamp(2rem, 3vw, 20px);
+    }
+
+    .telephone_btn {
+        padding: clamp(0.25rem, -0.469rem + 1.531vw, 1rem) clamp(1.5rem, 1.02rem + 1.02vw, 2rem);
+    }
+
+    /* nav styles END */
+
+
+
+    /* tablet styles */
+
+    h1 {
+        font-size: clamp(5.5rem, 10vw, 9rem);
+    }
+
+    h2 {
+        font-size: clamp(5rem, 9vw, 8rem);
+    }
+
+    h4 {
+        font-size: clamp(2rem, 3vw, 20px);
+    }
+
+    p {
+        font-size: clamp(2rem, 3vw, 20px);
+        text-align: center;
+    }
+
+    .adresse {
+        padding: 0 clamp(2rem, 4vw, 3rem);
+    }
+
+    section {
+        padding: clamp(9rem, 13vw, 12rem) 0;
+    }
+
+    .section_content {
+        padding: var(--mobile-padding);
+    }
+
+    .logo {
+        height: clamp(5rem, 2.122rem + 6.122vw, 8rem);
+    }
+
+    .instruction {
+        gap: 1rem;
+    }
+
+    .instruction_text {
+        font-size: 4rem;
+    }
+
+    .instruction_img {
+        width: 14rem;
+    }
+
+    .ramen {
+        gap: 4rem;
+    }
+
+    .ramen_type {
+        gap: 3rem;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    td:first-child,
+    th:first-child {
+        width: 33rem;
+    }
+
+    th {
+        font-size: 4rem;
+    }
+
+    td {
+        font-size: 3rem;
+    }
+
+    .map_frame {
+        margin: clamp(2rem, -1.837rem + 8.1639vw, 6rem) 0 0;
+    }
+
+    footer {
+        padding: clamp(2.875rem, -0.345rem + 6.87vw, 6.25rem) clamp(2rem, 4vw, 3rem) clamp(2.875rem, -0.345rem + 6.87vw, 6.25rem);
+    }
+
+    .social_icon_link {
+        height: 5rem;
+    }
+
+    .social_icon {
+        width: clamp(4rem, 10vw, 5rem);
+        height: clamp(4rem, 10vw, 5rem);
+    }
+
+    .footer_logo {
+        height: clamp(5rem, 8vw, 44px);
+    }
+
+    .footer_logo img {
+        height: clamp(5rem, 8vw, 44px);
+    }
+
+    /* tablet styles END */
+
+}
+
+@media (max-width: 490px) {
+
+    /* mobile styles */
+
+    .order_instr_pictogram {
+        flex-direction: column;
+        gap: 4rem;
+    }
+
+    .mobile_footer_logo {
+        display: block;
+    }
+
+    .desktop_footer_logo {
+        display: none;
+    }
+
+    /* mobile styles END*/
+
+}
+
+@media (max-width: 375px) {
+
+    /* mobile styles */
+
+    /* mobile styles END*/
+
+}
