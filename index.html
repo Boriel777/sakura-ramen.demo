@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sakura Ramen</title>
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/responsive.css">
     <link
         href="https://fonts.googleapis.com/css2?family=Economica:wght@400;700&family=Raleway:wght@400;700&display=swap"
         rel="stylesheet">
@@ -21,9 +22,9 @@
         <nav>
             <img src="img/1_hero/SVG/sakura_logo.svg" alt="sakura ramen logo" class="logo">
             <ul class="header_nav">
-                <li><a href="#menu">Menu</a></li>
-                <li><a href="#contact">Locations</a></li>
-                <li><a href="#contact">About</a></li>
+                <li class="menu_btn" ><a href="#menu">Menu</a></li>
+                <li class="menu_btn" ><a href="#contact">Locations</a></li>
+                <li class="menu_btn" ><a href="#contact">About</a></li>
                 <li class="telephone_btn"><img src="img/1_hero/SVG/phone.svg"
                         alt="Phone icon"><a href="tel:017654564534">0176 54564534</a></li>
             </ul>
@@ -57,7 +58,7 @@
                     <img src="img/3_section_our_menu/Png/R1.png" alt="tonkatsu ramen image"
                         class="ramen_img">
                     <table class="ramen_ingredient">
-                        <th class="ramen_name">Tonkatsu Ramen</th>
+                        <th colspan="2" class="ramen_name">Tonkatsu Ramen</th>
                         <tr>
                             <td>Chicken</td>
                             <td>11.95€</td>
@@ -124,11 +125,12 @@
                 allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" frameborder="0"></iframe>
         </section>
     </main>
-    <footer>
+    <footer id="footer">
         <div class="footer_logo">
-            <a href="#home"><img
+            <a class="desktop_footer_logo" href="#home"><img
                     src="img/5_section_footer/SVG/sakura_ramen_logo_and_text.svg"
                     alt="logo" class="footer_logo_img"></a>
+            <a class="mobile_footer_logo" href="#home"><img src="img/1_hero/SVG/sakura_logo.svg" alt="sakura ramen logo"></a>
         </div>
         <div class="social_icons">
             <a href="https://www.tripadvisor.at/" class="social_icon_link"><img
