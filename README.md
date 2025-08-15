@@ -46,11 +46,11 @@ I wanted to demonstrate that good structure, design sense, and handcrafted work 
 ---
 
 ## 📊 Project Status
-![GitHub last commit](https://img.shields.io/github/last-commit/Boriel777/sakura_ramen?style=for-the-badge)
-![GitHub repo size](https://img.shields.io/github/repo-size/Boriel777/sakura_ramen?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/Boriel777/sakura_ramen?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/Boriel777/sakura_ramen?style=for-the-badge)
-![License](https://img.shields.io/github/license/Boriel777/sakura_ramen?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/Boriel777/sakura-ramen.demo?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/Boriel777/sakura-ramen.demo?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/Boriel777/sakura-ramen.demo?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/Boriel777/sakura-ramen.demo?style=for-the-badge)
+![License](https://img.shields.io/github/license/Boriel777/sakura-ramen.demo?style=for-the-badge)
 
 ---
 
