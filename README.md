@@ -1,74 +1,88 @@
-<h1>Sakura Ramen – Onepager für ein fiktives Ramen-Restaurant</h1>
-<p>Eine statische, semantisch aufgebaute Website mit minimalem CSS und liebevoll handgecodetem HTML.</p>
+# 🚀 Sakura Ramen – Onepager for a Fictional Ramen Restaurant
 
-<hr>
+<em>A static, semantically structured website with minimal CSS and carefully handcoded HTML.</em>
 
-<h2>Idee</h2>
-<p>
-  Dieses Projekt entstand als stilistische Fingerübung und Portfolio-Stück. Ziel war es, eine einfache, aber charmante Restaurant-Website mit Fokus auf Struktur, Klarheit und Handschrift zu entwickeln.
-</p>
-<ul>
-  <li>Umsetzung nach externer Design</li>
-  <li>Umsetzung in reinem HTML5 &amp; CSS3</li>
-  <li>Kein CMS, keine Templates – alles von Hand geschrieben</li>
-  <li>Fokus auf Semantik, Typografie und visuelles Storytelling</li>
-  <li><strong>Noch nicht responsive</strong> – bewusst statisch gehalten als Basisversion</li>
-</ul>
+---
 
-<hr>
+## 💡 The Idea
+This project was created as a **stylistic exercise and portfolio piece**.  
+The goal was to build a simple, charming restaurant website focusing on structure, clarity, and personal craftsmanship.
 
-<h2>Technologien</h2>
-<ul>
-  <li><strong>HTML5</strong> (semantisch &amp; SEO-freundlich)</li>
-  <li><strong>CSS3</strong> (Custom Styles, keine Frameworks)</li>
-  <li><strong>GitHub Pages</strong> für Hosting</li>
-</ul>
+- Implementation based on an external design  
+- Fully handcoded in **HTML5 & CSS3**  
+- No CMS, no templates—everything written by hand  
+- Focus on semantics, typography, and visual storytelling  
+- **Not yet responsive**—intentionally kept static as a base version  
 
-<hr>
+---
 
-<h2>📸 Vorschau</h2>
-<ul>
-  <li>🔗 <em>Figma-Prototyp (optional einfügen)</em></li>
-  <li>🔗 <em>Live-Demo auf GitHub Pages (optional einfügen)</em></li>
-</ul>
+## 🎨 My Approach
+I wanted to demonstrate that good structure, design sense, and handcrafted work can shine **without JavaScript or frameworks**:
 
-<hr>
+- **Step 1: Analyze the Design** – Break down layout, typography, and visual hierarchy  
+- **Step 2: Handcode HTML & CSS** – Emphasize semantics, readability, and minimal styling  
+- **Step 3: Polish Visuals** – Add typographic emphasis and Japanese aesthetic touches  
+- **Step 4: Test & Refine** – Keep layout clean, simple, and visually consistent  
 
-<h2>Features</h2>
-<ul>
-  <li>Statische Onepager-Struktur</li>
-  <li>Typografisch betontes Design mit japanischer Ästhetik</li>
-  <li>Navigation &amp; Layout auf Einfachheit und Lesbarkeit optimiert</li>
-  <li>Icons und Grafiken über CSS eingebunden (keine externen Bibliotheken)</li>
-</ul>
+---
 
-<hr>
+## ⚡ Key Highlights
+- Static one-page layout, lightweight and readable  
+- Typography-focused design with Japanese aesthetic inspiration  
+- Navigation and layout optimized for simplicity and clarity  
+- Icons and graphics embedded via CSS—no external libraries  
 
-<h2>Warum das Projekt?</h2>
-<p>
-  Ich wollte zeigen, dass gute Struktur, Designgefühl und Handschrift auch ohne JavaScript oder Frameworks auskommen – und dass selbst kleine Restaurants mit Charakter online glänzen können.
-</p>
+---
 
-<hr>
+## 🛠 Built With
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
+</div>
 
-<h2>Über mich</h2>
-<p>
-  Ich bin Dalibor – Web- &amp; Grafikdesigner mit einer Leidenschaft für handgemachtes Design und klaren Code.
-  Ich kombiniere Ästhetik, Storytelling und Technik zu digitalen Markenerlebnissen.
-</p>
+---
 
-<hr>
+## 📊 Project Status
+![GitHub last commit](https://img.shields.io/github/last-commit/Boriel777/sakura_ramen?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/Boriel777/sakura_ramen?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/Boriel777/sakura_ramen?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/Boriel777/sakura_ramen?style=for-the-badge)
+![License](https://img.shields.io/github/license/Boriel777/sakura_ramen?style=for-the-badge)
 
-<h2>Portfolio / Über mich</h2>
-<ul>
-  <li>🌐 <a href="https://borieldesigns.myportfolio.com" target="_blank">borieldesigns.myportfolio.com</a></li>
-  <li>💻 <a href="https://github.com/Boriel777" target="_blank">GitHub-Profil</a></li>
-  <li>📩 <a href="mailto:office@boriel-designs.com">office@boriel-designs.com</a></li>
-</ul>
+---
 
-<p><strong>Du brauchst sowas auch für dein Restaurant, Studio oder Geschäft?<br>
-Meld dich bei mir – ich mach das für dich!</strong></p>
+## 📸 Preview / Demo
+- [Figma Prototype](#) *(optional)*  
+- [Live Demo on GitHub Pages](#) *(optional)*  
 
-<hr>
+---
 
-<p><em>Ready to commit?</em></p>
+## 🤝 Contributing
+1. Fork the repo  
+2. Create a branch (`git checkout -b feature/awesome-feature`)  
+3. Commit your changes (`git commit -m 'Add feature'`)  
+4. Push (`git push origin feature/awesome-feature`)  
+5. Open a PR
+
+---
+
+## 🙋‍♂️ About Me
+I’m Dalibor – Web & Graphic Designer passionate about handcrafted design and clean code.  
+I combine aesthetics, storytelling, and technical skill to craft digital brand experiences.
+
+- 🌐 [Portfolio / About Me](https://borieldesigns.myportfolio.com)  
+- 💻 [GitHub Profile](https://github.com/Boriel777)  
+- 📩 [Email](mailto:office@boriel-designs.com)  
+
+---
+
+## 📫 Contact
+Need a website like this for your restaurant, studio, or business?  
+Reach out—I’ll make it for you!
+
+---
+
+<sub>Made with 🔥 by Boriel Designs | Every brand has a hidden story. Let’s reveal yours—together.</sub>
