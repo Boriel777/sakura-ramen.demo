@@ -54,9 +54,8 @@ I wanted to demonstrate that good structure, design sense, and handcrafted work 
 
 ---
 
-## 📸 Preview / Demo
-- [Figma Prototype](#) *(optional)*  
-- [Live Demo on GitHub Pages](#) *(optional)*  
+## 📸 Preview / Demo 
+- [Live Demo on GitHub Pages]([#](https://boriel777.github.io/sakura-ramen.demo))
 
 ---
 
