@@ -55,7 +55,7 @@ I wanted to demonstrate that good structure, design sense, and handcrafted work 
 ---
 
 ## 📸 Preview / Demo 
-- [Live Demo on GitHub Pages]([#](https://boriel777.github.io/sakura-ramen.demo))
+- [Live Demo on GitHub Pages](https://boriel777.github.io/sakura-ramen.demo)
 
 ---
 
