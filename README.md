@@ -1,28 +1,28 @@
 # 🚀 Sakura Ramen – Onepager for a Fictional Ramen Restaurant
 
-<em>A static, semantically structured website with minimal CSS and carefully handcoded HTML.</em>
+<em>A fully handcoded, fully responsive website with minimal CSS and carefully crafted HTML, built as part of Developer Academy exercises.</em>
 
 ---
 
 ## 💡 The Idea
-This project was created as a **stylistic exercise and portfolio piece**.  
+This project was created as a **stylistic exercise and portfolio piece during my Developer Academy education**.  
 The goal was to build a simple, charming restaurant website focusing on structure, clarity, and personal craftsmanship.
 
 - Implementation based on an external design  
 - Fully handcoded in **HTML5 & CSS3**  
 - No CMS, no templates—everything written by hand  
 - Focus on semantics, typography, and visual storytelling  
-- **Not yet responsive**—intentionally kept static as a base version  
+- **Fully responsive** – optimized for all screen sizes  
 
 ---
 
 ## 🎨 My Approach
-I wanted to demonstrate that good structure, design sense, and handcrafted work can shine **without JavaScript or frameworks**:
+I wanted to demonstrate that good structure, design sense, and handcrafted work can shine **without JavaScript frameworks**:
 
 - **Step 1: Analyze the Design** – Break down layout, typography, and visual hierarchy  
 - **Step 2: Handcode HTML & CSS** – Emphasize semantics, readability, and minimal styling  
-- **Step 3: Polish Visuals** – Add typographic emphasis and Japanese aesthetic touches  
-- **Step 4: Test & Refine** – Keep layout clean, simple, and visually consistent  
+- **Step 3: Implement Responsiveness** – Mobile-first design using Flexbox and media queries  
+- **Step 4: Polish & Test** – Ensure layout works on all devices and remains visually consistent  
 
 ---
 
@@ -31,6 +31,7 @@ I wanted to demonstrate that good structure, design sense, and handcrafted work 
 - Typography-focused design with Japanese aesthetic inspiration  
 - Navigation and layout optimized for simplicity and clarity  
 - Icons and graphics embedded via CSS—no external libraries  
+- Fully responsive design  
 
 ---
 
@@ -54,8 +55,8 @@ I wanted to demonstrate that good structure, design sense, and handcrafted work 
 
 ---
 
-## 📸 Preview / Demo 
-- [Live Demo on GitHub Pages](https://boriel777.github.io/sakura-ramen.demo)
+## 📸 Preview / Demo
+- [Live Demo on GitHub Pages](https://boriel777.github.io/sakura-ramen.demo/)  
 
 ---
 
